@@ -7,3 +7,5 @@ and my age is 32 year
 ab mai dev mai hu
 
 yai cherry pick wala command
+
+isko skip karna hai 
