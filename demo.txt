@@ -5,3 +5,10 @@ my name is nikhil
 and my age is 32 year
 
 ab mai dev mai hu
+
+yai cherry pick wala command
+<<<<<<< HEAD
+=======
+
+isko skip karna hai 
+>>>>>>> dev
